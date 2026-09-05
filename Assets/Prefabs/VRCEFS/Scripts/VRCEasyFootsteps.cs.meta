@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0f9ba874ee836ff43a68b86768e8696b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _udonSharpBackingUdonBehaviour: {instanceID: 0}
+  - footstepAudioClip: {fileID: 8300000, guid: 97b4bf2fdbd1d0345a9ed6a910279c0e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
